@@ -20,3 +20,25 @@ h4 {
     color: #FFA500;
     font-size: 2rem;
 }
+
+h5 {
+    text-align: center;
+    color: #FDE541;
+    font-size: 2rem;
+}
+
+h6 {
+    text-align: center;
+    color: #BCED91;
+    font-size: 2rem;
+}
+
+
+
+h1.2 {
+    text-align: center;
+    color: #8FD8D8;
+    font-size: 2rem;
+}
+
+
