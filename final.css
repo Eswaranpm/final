@@ -1,0 +1,21 @@
+.block {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 50px;
+    position: absolute;
+    z-index: 1000;
+    width: 200px;
+    height: 200px;
+    font-size: 1.33rem;
+};
+
+h1 {
+    font-size: 2rem;
+}
+
+.arrow {
+    position: absolute;
+    bottom: 325px;
+    left: 250px;
+}
